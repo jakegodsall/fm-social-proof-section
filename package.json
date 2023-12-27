@@ -1,0 +1,14 @@
+{
+    "name": "fm-social-proof-section",
+    "version": "1.0.0",
+    "description": "This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "lite-server --baseDir='src/'",
+        "build": "sass ./src/sass:src/ --style compressed --no-source-map",
+        "sass": "sass ./src/sass:src/ --style compressed --no-source-map"
+    },
+    "keywords": [],
+    "author": "Jake Godsall",
+    "license": "ISC"
+}
